@@ -1,0 +1,5 @@
+str_val = "Programming"
+print("Length =", len(str_val))
+
+OutPut:
+Length = 11
